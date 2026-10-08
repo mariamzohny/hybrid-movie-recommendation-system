@@ -269,7 +269,7 @@ Before publishing, replace the GitHub placeholders with the correct usernames an
 | # | Team Member | Main Responsibility | GitHub |
 |---:|---|---|---|
 | 1 | **[Member 1 Name]** | Data preparation / assigned Module 1 + GUI integration | `@[username]` |
-| 2 | **[Your Name]** | Association Rule Mining — FP-Growth, frequent movie combinations, support, confidence & lift | `@[your-username]` |
+| 2 | **[mariamzohny]** | Association Rule Mining — FP-Growth, frequent movie combinations, support, confidence & lift | `@[mariamzohny]` |
 | 3 | **Ahmed Abdelrahim** | PageRank / Graph Analysis | `@[username]` |
 | 4 | **Amr Fekar** | Data Visualization & Analytical Charts | `@[username]` |
 | 5 | **Mohamed Ahmed** | BERT Semantic Similarity / NLP | `@[username]` |
